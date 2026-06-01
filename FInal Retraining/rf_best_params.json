@@ -1,0 +1,8 @@
+{
+    "n_estimators": 91,
+    "max_depth": 10,
+    "max_features": "sqrt",
+    "criterion": "log_loss",
+    "ccp_alpha": 0.0003285746110382043,
+    "bootstrap": false
+}

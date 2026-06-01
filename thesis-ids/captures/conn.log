@@ -1,0 +1,23 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2026-03-06-06-41-02
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	ip_proto
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]	count
+1772779250.704554	CoAeaL3KdR7FS41lj	192.168.65.7	2376	192.168.65.1	37455	tcp	-	0.000997	2088	0	SF	T	T	0	DafF	5	2348	4	208	-	6
+1772779250.710555	CJ94aw3pXgiHOJeWbk	192.168.65.1	38006	192.168.65.7	2376	tcp	-	0.000621	0	5	SF	T	T	0	FdfA	2	104	2	109	-	6
+1772779252.227114	CehI153qQRlUV9YXUf	192.168.65.3	38554	54.36.178.49	1883	tcp	mqtt	0.978494	32	4	SF	T	F	0	^dADFaf	4	240	3	160	-	6
+1772779253.235664	CUZU0z4N29o1JDmVza	192.168.65.3	42774	54.36.178.49	1883	tcp	-	4.074155	0	0	S0	T	F	0	S	5	300	0	0	-	6
+1772779258.334152	C42MZx2IiXs8hzaCEj	192.168.65.3	42774	54.36.178.49	1883	tcp	-	-	-	-	S0	T	F	0	S	1	60	0	0	-	6
+1772779256.255926	Cgk0Jw2GRHll8BRlcb	192.168.65.7	2376	192.168.65.1	35288	tcp	-	0.000829	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779255.741009	CPqwUA3z0WV2GAS4zi	192.168.65.7	2376	192.168.65.1	27104	tcp	-	0.000678	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779256.255912	CKPiuHlgidUalr8ti	192.168.65.7	2376	192.168.65.1	29747	tcp	-	0.000906	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779251.136935	ChXGmJEYC2xgQCnNe	192.168.65.7	2376	192.168.65.1	23137	tcp	-	0.000376	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779251.134457	CsuBSm42UnI9Njavba	192.168.65.7	2376	192.168.65.1	36938	tcp	-	0.000841	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779251.134461	Cij8hM2mNirtEHEJj9	192.168.65.7	2376	192.168.65.1	51254	tcp	-	0.000807	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779251.134418	Cw3Wze1IN1b0gTRjC5	192.168.65.7	2376	192.168.65.1	57377	tcp	-	0.000874	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779255.741039	CgcLtMjCrkAGg3u69	192.168.65.7	2376	192.168.65.1	40903	tcp	-	0.000677	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+1772779251.134463	Cz225i2bmHOgc7uhtj	192.168.65.7	2376	192.168.65.1	53026	tcp	-	0.000826	1	0	OTH	T	T	0	Aa	1	52	1	52	-	6
+#close	2026-03-06-06-41-02

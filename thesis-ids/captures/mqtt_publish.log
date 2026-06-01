@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	mqtt_publish
+#open	2026-03-06-06-41-02
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	from_client	retain	qos	status	topic	payload	payload_len
+#types	time	string	addr	port	addr	port	bool	bool	string	string	string	string	count
+1772779252.227261	CehI153qQRlUV9YXUf	192.168.65.3	38554	54.36.178.49	1883	T	F	at most once	ok	thesis/sensor1/temp	24.4826	7
+#close	2026-03-06-06-41-02

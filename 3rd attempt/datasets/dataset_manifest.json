@@ -1,0 +1,1482 @@
+[
+  {
+    "timestamp": "2026-05-14T09:52:19.698795",
+    "label": "normal",
+    "rows_added": 10,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T09:52:51.496162",
+    "label": "normal",
+    "rows_added": 18,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T09:53:23.287118",
+    "label": "normal",
+    "rows_added": 29,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T09:53:55.065900",
+    "label": "normal",
+    "rows_added": 36,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T09:54:26.845747",
+    "label": "normal",
+    "rows_added": 51,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:13:17.355581",
+    "label": "normal",
+    "rows_added": 10,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:13:49.119171",
+    "label": "normal",
+    "rows_added": 22,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:14:20.903719",
+    "label": "normal",
+    "rows_added": 34,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:14:52.665371",
+    "label": "normal",
+    "rows_added": 43,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:15:24.465807",
+    "label": "normal",
+    "rows_added": 55,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:15:56.225268",
+    "label": "normal",
+    "rows_added": 63,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:16:28.053642",
+    "label": "normal",
+    "rows_added": 78,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:16:59.857183",
+    "label": "normal",
+    "rows_added": 89,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:17:31.638969",
+    "label": "normal",
+    "rows_added": 98,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:18:03.401661",
+    "label": "normal",
+    "rows_added": 112,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:18:35.206276",
+    "label": "normal",
+    "rows_added": 121,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:19:06.989402",
+    "label": "normal",
+    "rows_added": 133,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:19:38.777056",
+    "label": "normal",
+    "rows_added": 144,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:20:10.556020",
+    "label": "normal",
+    "rows_added": 155,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:20:42.341712",
+    "label": "normal",
+    "rows_added": 168,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:43:30.589966",
+    "label": "normal",
+    "rows_added": 12,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:44:02.364249",
+    "label": "normal",
+    "rows_added": 23,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:44:34.150664",
+    "label": "normal",
+    "rows_added": 32,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:45:05.962596",
+    "label": "normal",
+    "rows_added": 43,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:45:37.750101",
+    "label": "normal",
+    "rows_added": 53,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:46:09.517738",
+    "label": "normal",
+    "rows_added": 64,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:46:41.320209",
+    "label": "normal",
+    "rows_added": 75,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:47:13.096992",
+    "label": "normal",
+    "rows_added": 86,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:47:44.890821",
+    "label": "normal",
+    "rows_added": 95,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:48:16.701008",
+    "label": "normal",
+    "rows_added": 107,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:48:48.477401",
+    "label": "normal",
+    "rows_added": 117,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:49:20.261878",
+    "label": "normal",
+    "rows_added": 127,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:49:52.062730",
+    "label": "normal",
+    "rows_added": 135,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:50:23.882242",
+    "label": "normal",
+    "rows_added": 147,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:50:55.719277",
+    "label": "normal",
+    "rows_added": 155,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:51:27.503334",
+    "label": "normal",
+    "rows_added": 169,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:51:59.281962",
+    "label": "normal",
+    "rows_added": 181,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:52:31.079828",
+    "label": "normal",
+    "rows_added": 190,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:53:02.877114",
+    "label": "normal",
+    "rows_added": 201,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:53:34.669245",
+    "label": "normal",
+    "rows_added": 210,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:54:06.492757",
+    "label": "normal",
+    "rows_added": 222,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:54:38.310281",
+    "label": "normal",
+    "rows_added": 232,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:55:10.076752",
+    "label": "normal",
+    "rows_added": 241,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:55:41.929639",
+    "label": "normal",
+    "rows_added": 253,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:56:13.698318",
+    "label": "normal",
+    "rows_added": 264,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:56:45.498408",
+    "label": "normal",
+    "rows_added": 273,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:57:17.290264",
+    "label": "normal",
+    "rows_added": 284,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:57:49.090953",
+    "label": "normal",
+    "rows_added": 294,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:58:20.891794",
+    "label": "normal",
+    "rows_added": 304,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T10:58:52.689287",
+    "label": "normal",
+    "rows_added": 314,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:35:41.997399",
+    "label": "normal",
+    "rows_added": 9,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:36:13.850380",
+    "label": "normal",
+    "rows_added": 22,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:36:45.605896",
+    "label": "normal",
+    "rows_added": 33,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:37:17.365601",
+    "label": "normal",
+    "rows_added": 44,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:37:49.131694",
+    "label": "normal",
+    "rows_added": 56,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:38:20.925428",
+    "label": "normal",
+    "rows_added": 66,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:38:52.718854",
+    "label": "normal",
+    "rows_added": 77,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:39:24.479039",
+    "label": "normal",
+    "rows_added": 90,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:39:56.267421",
+    "label": "normal",
+    "rows_added": 100,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:40:28.101666",
+    "label": "normal",
+    "rows_added": 111,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:40:59.969696",
+    "label": "normal",
+    "rows_added": 125,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:41:31.828891",
+    "label": "normal",
+    "rows_added": 140,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:42:03.616097",
+    "label": "normal",
+    "rows_added": 151,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:42:35.380822",
+    "label": "normal",
+    "rows_added": 162,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:43:07.189544",
+    "label": "normal",
+    "rows_added": 174,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:43:38.960049",
+    "label": "normal",
+    "rows_added": 183,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:44:10.781602",
+    "label": "normal",
+    "rows_added": 195,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:44:42.602494",
+    "label": "normal",
+    "rows_added": 206,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:45:14.367017",
+    "label": "normal",
+    "rows_added": 221,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:45:46.154378",
+    "label": "normal",
+    "rows_added": 231,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:46:17.997019",
+    "label": "normal",
+    "rows_added": 241,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:46:49.795823",
+    "label": "normal",
+    "rows_added": 254,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:47:21.663109",
+    "label": "normal",
+    "rows_added": 262,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:47:53.482930",
+    "label": "normal",
+    "rows_added": 274,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:48:25.278701",
+    "label": "normal",
+    "rows_added": 287,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:48:57.103735",
+    "label": "normal",
+    "rows_added": 297,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:49:28.971280",
+    "label": "normal",
+    "rows_added": 310,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:50:00.795292",
+    "label": "normal",
+    "rows_added": 320,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:50:32.650159",
+    "label": "normal",
+    "rows_added": 332,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:51:04.425004",
+    "label": "normal",
+    "rows_added": 344,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:51:36.224755",
+    "label": "normal",
+    "rows_added": 353,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:52:08.106443",
+    "label": "normal",
+    "rows_added": 365,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:52:40.009142",
+    "label": "normal",
+    "rows_added": 378,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:53:11.903129",
+    "label": "normal",
+    "rows_added": 387,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:53:43.740132",
+    "label": "normal",
+    "rows_added": 401,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:54:15.521827",
+    "label": "normal",
+    "rows_added": 411,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:54:47.357618",
+    "label": "normal",
+    "rows_added": 422,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:55:19.167241",
+    "label": "normal",
+    "rows_added": 433,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:55:50.980098",
+    "label": "normal",
+    "rows_added": 444,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:56:22.847814",
+    "label": "normal",
+    "rows_added": 454,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:56:54.671861",
+    "label": "normal",
+    "rows_added": 466,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:57:26.481370",
+    "label": "normal",
+    "rows_added": 477,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:57:58.310192",
+    "label": "normal",
+    "rows_added": 488,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:58:30.126424",
+    "label": "normal",
+    "rows_added": 502,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:59:01.966506",
+    "label": "normal",
+    "rows_added": 511,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T11:59:33.783661",
+    "label": "normal",
+    "rows_added": 522,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:00:05.598196",
+    "label": "normal",
+    "rows_added": 533,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:00:37.421066",
+    "label": "normal",
+    "rows_added": 544,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:01:09.218148",
+    "label": "normal",
+    "rows_added": 557,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:01:41.145531",
+    "label": "normal",
+    "rows_added": 569,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:02:12.997003",
+    "label": "normal",
+    "rows_added": 580,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:02:44.790895",
+    "label": "normal",
+    "rows_added": 594,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:03:16.649996",
+    "label": "normal",
+    "rows_added": 604,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:03:48.462210",
+    "label": "normal",
+    "rows_added": 615,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:04:20.301514",
+    "label": "normal",
+    "rows_added": 627,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:04:52.133737",
+    "label": "normal",
+    "rows_added": 636,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:05:24.005253",
+    "label": "normal",
+    "rows_added": 647,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:05:55.862554",
+    "label": "normal",
+    "rows_added": 658,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:06:27.688193",
+    "label": "normal",
+    "rows_added": 670,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:06:59.552945",
+    "label": "normal",
+    "rows_added": 683,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:07:31.375563",
+    "label": "normal",
+    "rows_added": 692,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:08:03.285192",
+    "label": "normal",
+    "rows_added": 704,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:08:35.101674",
+    "label": "normal",
+    "rows_added": 716,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:09:06.967177",
+    "label": "normal",
+    "rows_added": 726,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:09:38.837425",
+    "label": "normal",
+    "rows_added": 736,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:10:10.693790",
+    "label": "normal",
+    "rows_added": 750,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:10:42.654046",
+    "label": "normal",
+    "rows_added": 759,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:11:14.472699",
+    "label": "normal",
+    "rows_added": 772,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:11:46.304064",
+    "label": "normal",
+    "rows_added": 784,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:12:18.233120",
+    "label": "normal",
+    "rows_added": 794,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:12:50.079015",
+    "label": "normal",
+    "rows_added": 805,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:13:22.070978",
+    "label": "normal",
+    "rows_added": 815,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:13:53.937266",
+    "label": "normal",
+    "rows_added": 827,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:14:25.808437",
+    "label": "normal",
+    "rows_added": 840,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:14:57.784195",
+    "label": "normal",
+    "rows_added": 848,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:15:29.683255",
+    "label": "normal",
+    "rows_added": 862,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:16:01.635353",
+    "label": "normal",
+    "rows_added": 874,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:16:33.564623",
+    "label": "normal",
+    "rows_added": 883,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:17:05.468470",
+    "label": "normal",
+    "rows_added": 895,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:17:37.410781",
+    "label": "normal",
+    "rows_added": 907,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:18:09.245418",
+    "label": "normal",
+    "rows_added": 919,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:18:41.155959",
+    "label": "normal",
+    "rows_added": 932,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:19:13.101361",
+    "label": "normal",
+    "rows_added": 946,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:19:44.922056",
+    "label": "normal",
+    "rows_added": 958,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:20:16.824718",
+    "label": "normal",
+    "rows_added": 967,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:20:48.690027",
+    "label": "normal",
+    "rows_added": 978,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:21:20.526609",
+    "label": "normal",
+    "rows_added": 989,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:21:52.422028",
+    "label": "normal",
+    "rows_added": 1001,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:22:24.257933",
+    "label": "normal",
+    "rows_added": 1011,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:22:56.184510",
+    "label": "normal",
+    "rows_added": 1021,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:23:28.106503",
+    "label": "normal",
+    "rows_added": 1034,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:23:59.954018",
+    "label": "normal",
+    "rows_added": 1046,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:24:31.811610",
+    "label": "normal",
+    "rows_added": 1058,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:25:03.720752",
+    "label": "normal",
+    "rows_added": 1070,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:25:35.540046",
+    "label": "normal",
+    "rows_added": 1079,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:26:07.401001",
+    "label": "normal",
+    "rows_added": 1091,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:26:39.261368",
+    "label": "normal",
+    "rows_added": 1101,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:27:11.181128",
+    "label": "normal",
+    "rows_added": 1114,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:27:43.040819",
+    "label": "normal",
+    "rows_added": 1125,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:28:14.901391",
+    "label": "normal",
+    "rows_added": 1137,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:28:46.770616",
+    "label": "normal",
+    "rows_added": 1148,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T12:29:18.680027",
+    "label": "normal",
+    "rows_added": 1158,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T19:17:25.271855",
+    "label": "scanning",
+    "rows_added": 2,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T19:52:54.696586",
+    "label": "scanning",
+    "rows_added": 80,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:37:34.914102",
+    "label": "scanning",
+    "rows_added": 885,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:38:06.728983",
+    "label": "scanning",
+    "rows_added": 1001,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:38:38.624118",
+    "label": "scanning",
+    "rows_added": 1099,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:39:10.462984",
+    "label": "scanning",
+    "rows_added": 1182,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:39:42.303052",
+    "label": "scanning",
+    "rows_added": 1263,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:40:14.120482",
+    "label": "scanning",
+    "rows_added": 1344,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:40:45.956940",
+    "label": "scanning",
+    "rows_added": 1422,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:41:17.855232",
+    "label": "scanning",
+    "rows_added": 1502,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:41:49.722352",
+    "label": "scanning",
+    "rows_added": 1584,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:42:21.583063",
+    "label": "scanning",
+    "rows_added": 1664,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:42:53.418121",
+    "label": "scanning",
+    "rows_added": 1742,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:43:25.318551",
+    "label": "scanning",
+    "rows_added": 1823,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:43:57.159825",
+    "label": "scanning",
+    "rows_added": 2867,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:44:28.998182",
+    "label": "scanning",
+    "rows_added": 2880,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:45:00.835751",
+    "label": "scanning",
+    "rows_added": 2882,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:45:32.676305",
+    "label": "scanning",
+    "rows_added": 2884,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:46:04.525191",
+    "label": "scanning",
+    "rows_added": 2887,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:46:36.365689",
+    "label": "scanning",
+    "rows_added": 2889,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:54:11.335390",
+    "label": "mitm",
+    "rows_added": 854,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:54:43.354102",
+    "label": "mitm",
+    "rows_added": 1710,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:55:15.423515",
+    "label": "mitm",
+    "rows_added": 2551,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:55:47.556721",
+    "label": "mitm",
+    "rows_added": 3440,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:56:19.727790",
+    "label": "mitm",
+    "rows_added": 4280,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:56:52.519583",
+    "label": "mitm",
+    "rows_added": 5175,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:57:24.706131",
+    "label": "mitm",
+    "rows_added": 6048,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T20:57:56.889045",
+    "label": "mitm",
+    "rows_added": 6908,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T22:08:55.897416",
+    "label": "ddos",
+    "rows_added": 1295,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T22:09:28.566596",
+    "label": "ddos",
+    "rows_added": 2475,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T22:10:29.091981",
+    "label": "ddos",
+    "rows_added": 424730,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T22:11:59.592072",
+    "label": "ddos",
+    "rows_added": 952796,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  },
+  {
+    "timestamp": "2026-05-14T22:31:50.588849",
+    "label": "dos",
+    "rows_added": 369453,
+    "interval_s": 30,
+    "zeek_version": "zeek version 8.0.8",
+    "dataset_file": "/app/datasets/dataset_training_iot.csv"
+  }
+]

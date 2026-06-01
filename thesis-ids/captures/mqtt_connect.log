@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	mqtt_connect
+#open	2026-03-06-06-41-02
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto_name	proto_version	client_id	connect_status	will_topic	will_payload
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string
+1772779252.227114	CehI153qQRlUV9YXUf	192.168.65.3	38554	54.36.178.49	1883	-	-	-	Connection Accepted	-	-
+#close	2026-03-06-06-41-02

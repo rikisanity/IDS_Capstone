@@ -1,0 +1,74 @@
+============================================================
+  IoT IDS — Training Report
+  Testbed dataset : datasets/dataset_training_iot.csv  (387,445 raw rows)
+  TON-IoT dataset : datasets/train_test_network.csv  (211,043 raw rows)
+  Combined after cap: 301043 rows (see logs)
+  Training rows   : 192,667
+  Holdout rows    : 60,209
+  Features        : 75
+============================================================
+
+--- XGBoost — Holdout Test ---
+Accuracy  : 0.9989
+Precision : 0.9996
+Recall    : 0.9988
+F1        : 0.9992
+AUC-ROC   : 1.0000
+Latency   : 0.002904 ms/row
+Confusion Matrix:
+[[15984    16]
+ [   52 44157]]
+              precision    recall  f1-score   support
+
+      normal       1.00      1.00      1.00     16000
+      attack       1.00      1.00      1.00     44209
+
+    accuracy                           1.00     60209
+   macro avg       1.00      1.00      1.00     60209
+weighted avg       1.00      1.00      1.00     60209
+
+
+--- Decision Tree — Holdout Test ---
+Accuracy  : 0.9979
+Precision : 0.9993
+Recall    : 0.9979
+F1        : 0.9986
+AUC-ROC   : 0.9989
+Latency   : 0.000129 ms/row
+Confusion Matrix:
+[[15969    31]
+ [   94 44115]]
+              precision    recall  f1-score   support
+
+      normal       0.99      1.00      1.00     16000
+      attack       1.00      1.00      1.00     44209
+
+    accuracy                           1.00     60209
+   macro avg       1.00      1.00      1.00     60209
+weighted avg       1.00      1.00      1.00     60209
+
+
+--- Random Forest — Holdout Test ---
+Accuracy  : 0.9990
+Precision : 0.9994
+Recall    : 0.9993
+F1        : 0.9993
+AUC-ROC   : 1.0000
+Latency   : 0.003474 ms/row
+Confusion Matrix:
+[[15973    27]
+ [   32 44177]]
+              precision    recall  f1-score   support
+
+      normal       1.00      1.00      1.00     16000
+      attack       1.00      1.00      1.00     44209
+
+    accuracy                           1.00     60209
+   macro avg       1.00      1.00      1.00     60209
+weighted avg       1.00      1.00      1.00     60209
+
+
+============================================================
+  Features saved : 75
+  Models saved   : xgb, dt, rf
+============================================================

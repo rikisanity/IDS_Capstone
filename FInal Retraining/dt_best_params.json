@@ -1,0 +1,7 @@
+{
+    "criterion": "log_loss",
+    "splitter": "random",
+    "max_depth": 9,
+    "max_features": null,
+    "ccp_alpha": 1.0182810475696394e-05
+}

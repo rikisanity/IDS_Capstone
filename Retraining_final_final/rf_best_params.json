@@ -1,0 +1,8 @@
+{
+    "n_estimators": 181,
+    "max_depth": 10,
+    "max_features": null,
+    "criterion": "entropy",
+    "ccp_alpha": 2.621738590769505e-05,
+    "bootstrap": true
+}

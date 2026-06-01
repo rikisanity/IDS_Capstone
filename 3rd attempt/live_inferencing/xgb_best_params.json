@@ -1,0 +1,14 @@
+{
+    "learning_rate": 0.06876603672440365,
+    "max_depth": 10,
+    "subsample": 0.7670733771731327,
+    "min_child_weight": 1.1248491581005169,
+    "n_estimators": 165,
+    "max_leaves": 7,
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "tree_method": "hist",
+    "device": "cpu",
+    "random_state": 42,
+    "n_jobs": -1
+}
